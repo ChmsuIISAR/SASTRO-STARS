@@ -54,7 +54,7 @@ export default function App() {
              <div className="w-1 h-1 bg-white rounded-full"></div>
           </div>
           <h1 className="font-light text-lg tracking-wider text-white">
-            THE STARS <span className="text-slate-600 mx-1">|</span> <span className="text-cyan-400 font-medium">A CELESTIAL CENSUS</span>
+            THE STARS <span className="text-slate-600 mx-1">|</span> <span className="text-cyan-400 font-medium">A CELESTIAL CENSUS BY FUNWEB</span>
           </h1>
         </div>
 
